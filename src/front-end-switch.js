@@ -4,7 +4,7 @@
 // @source       https://github.com/Bit38/user-scrips
 // @license      MIT
 // @version      1.0.1
-// @description  Automatically switches from twitter to nitter (by default uses redirector: nitr.tr)
+// @description  Automatically switches from twitter to nitter (by default uses redirector: nitt.tr)
 // @author       Bit38
 // @match        https://*x.com/*
 // @match        https://*twitter.com/*
